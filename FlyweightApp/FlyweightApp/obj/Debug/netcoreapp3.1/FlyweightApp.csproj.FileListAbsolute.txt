@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.exe
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.deps.json
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.runtimeconfig.json
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.runtimeconfig.dev.json
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.dll
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\bin\Debug\netcoreapp3.1\FlyweightApp.pdb
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.csprojAssemblyReference.cache
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.AssemblyInfo.cs
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.dll
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.pdb
+C:\Users\student\source\repos\FlyweightApp\FlyweightApp\obj\Debug\netcoreapp3.1\FlyweightApp.genruntimeconfig.cache
